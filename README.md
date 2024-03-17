@@ -19,14 +19,6 @@ Hey there! I'm a passionate and experienced Full Stack Developer, specializing i
 
 ![](https://github-profile-trophy.vercel.app/?username=haider-patanwala&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-
-[![](https://gtce.itsvg.in/api?username=HaiderPatanwala)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=haider-patanwala&limit=5&theme=dark&combine_all_yearly_contributions=true)
