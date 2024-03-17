@@ -31,12 +31,6 @@ Hey there! I'm a passionate and experienced Full Stack Developer, specializing i
 
 ![](https://github-contributor-stats.vercel.app/api?username=haider-patanwala&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=haider-patanwala&icon=5&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
