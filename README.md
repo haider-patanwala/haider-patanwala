@@ -1,5 +1,5 @@
 <h1>Hi, I'm <a href="#">Haider</a> great to see you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-Hey there! I'm a passionate and experienced Full Stack Developer, specializing in WordPress development, with a knack for creating dynamic and interactive web applications. As a freelancer, I'm always up for new and exciting projects, ready to bring innovative ideas to life.
+Hey there! I'm a passionate and experienced Full Stack Developer, specializing in NextJs, React and WordPress development, with a knack for creating dynamic and interactive web applications. As a freelancer, I'm always up for new and exciting projects, ready to bring innovative ideas to life.
 
 ## 🌐 Socials:
 
